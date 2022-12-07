@@ -1,3 +1,3 @@
 #Demo repository
 
-I created this repository to learn github.
+Created this repository to learn github.
